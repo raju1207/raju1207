@@ -1,8 +1,8 @@
 # Hi, I'm Raju 👋
 
 ### About Me
-I'm Raju, a passionate software developer with a love for building projects that make an impact! 🌱 
-I am currently learning more about data science and machine learning.
+I'm Raju
+I am currently learning more about data science and machine learning 🤖🌱.
 
 ### Skills
 - 💻 Languages: Python, JavaScript, HTML/CSS
