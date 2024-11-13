@@ -11,9 +11,6 @@ I am currently learning more about data science and machine learning 🤖🌱.
 
 ### Let's Connect!
 - 📫 Email: vcanraju1207@gmail.com
-- 
-### Fun Fact
-When I’m not coding, I love travelling and photography!
 
 <!---
 raju1207/raju1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
