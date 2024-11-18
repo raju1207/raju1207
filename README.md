@@ -1,7 +1,6 @@
 # Hi, I'm Raju 👋
 
 ### About Me
-I'm Raju
 I am currently learning more about data science and machine learning 🤖🌱.
 
 ### Skills
